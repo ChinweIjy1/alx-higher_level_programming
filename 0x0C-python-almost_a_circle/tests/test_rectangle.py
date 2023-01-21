@@ -1,20 +1,3 @@
-
-PrincessRuth90
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x0C-python-almost_a_circle/tests/test_rectangle.py
-@PrincessRuth90
-PrincessRuth90 Tests Cases
- 1 contributor
-494 lines (406 sloc)  15.4 KB
 #!/usr/bin/python3
 '''Module for Rectangle unit tests.'''
 import unittest

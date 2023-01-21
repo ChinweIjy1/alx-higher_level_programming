@@ -1,20 +1,3 @@
-
-PrincessRuth90
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x0C-python-almost_a_circle/tests/test_base.py
-@PrincessRuth90
-PrincessRuth90 Test case
- 1 contributor
-286 lines (242 sloc)  9.62 KB
 #!/usr/bin/python3
 '''my base unit tests.'''
 import unittest
